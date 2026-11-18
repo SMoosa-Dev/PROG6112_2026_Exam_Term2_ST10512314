@@ -1,3 +1,4 @@
-com\mycompany\salesreportfinal\SalesReportFinal.class
-com\mycompany\salesreportfinal\IProduct.class
-com\mycompany\salesreportfinal\PrintProduct.class
+com\mycompany\productapp\ProductApp.class
+com\mycompany\productapp\IProductCalculations.class
+com\mycompany\productapp\ProductApp1.class
+com\mycompany\productapp\ProductCalculations.class
